@@ -106,10 +106,10 @@ WSGI_APPLICATION = 'videoproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'janyvideo$myvideo',
-        'USER': 'janyvideo',
+        'NAME': 'janyweb$myvideo',
+        'USER': 'janyweb',
         'PASSWORD': 'hngmdps2022',
-        'HOST': 'janyvideo.mysql.pythonanywhere-services.com',
+        'HOST': 'janyweb.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
